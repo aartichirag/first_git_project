@@ -1,0 +1,7 @@
+product_id=int(input("Enter Product id:"))
+product_name =input("Enter Product Name:")
+product_price=int(input("Enter Product price:"))
+print("====================================")
+print("product_id:",product_id)
+print("product_name:",product_name)
+print("product_price:",product_price)
